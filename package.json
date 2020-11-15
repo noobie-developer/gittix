@@ -1,10 +1,11 @@
 {
   "name": "@apgittix/common",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "",
   "main": "./build/index.js",
   "types": "./build./index.d.ts",
   "files": [
+    "build/**/*",
     "build"
   ],
   "scripts": {
